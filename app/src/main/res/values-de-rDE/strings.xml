@@ -83,7 +83,7 @@
     <string name="action_starred">Wichtig</string>
     <string name="action_remove">Entfernen</string>
     <string name="action_overwrite">Überschreiben</string>
-    <string name="overwrite_message">Eine Datei mit dem Namen existiert bereits,sie wird nun überschrieben</string>
+    <string name="overwrite_message">Eine Datei mit dem Namen existiert bereits, sie wird nun überschrieben</string>
     <string name="warning">Warnung</string>
     <string name="localeWarning">Bitte nutze nur das Lateinische Alphabet und seinen Zeichen sowie Zahlen um Fehler zu vermeiden.</string>
     <string name="action_share">Teilen</string>
